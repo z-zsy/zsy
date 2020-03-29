@@ -1,2 +1,6 @@
 qqq
-master
+<<<<<<< HEAD
+dev
+=======
+dev
+>>>>>>> dev
